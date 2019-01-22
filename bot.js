@@ -18,7 +18,7 @@ client.on('ready', () => {
 
 client2.on('ready', () => {
    console.log(`----------------`);
-   console.log(`2 Account Online ✩' `);
+   console.log(`Bot is Online ✩' `);
    console.log(`----------------`);
 });
 
